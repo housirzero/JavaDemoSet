@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/json.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/maptools.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/httpclient-4.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/redis/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/redis/jedis-2.7.2.jar" sourcepath="D:/Workspaces/MyEclipse for Spring 10/jar/redis/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/jsch-0.1.50.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
